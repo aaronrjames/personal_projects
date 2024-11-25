@@ -2,17 +2,17 @@
 A collection of data science projects for fun and self-learning.
 
 ## Contents
-#### Category 1: TBD
+#### Data Visualization
 - TBD
 - TBD
 - TBD
 
-#### Category 2: TBD
+#### Artificial Intelligence
 - TBD
 - TBD
 - TBD
 
-#### Category 3: TBD
+#### Video Games
 - TBD
 - TBD
 - TBD
