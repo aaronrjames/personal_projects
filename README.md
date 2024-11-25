@@ -12,7 +12,7 @@ A collection of data science projects for fun and self-learning.
 - TBD
 - TBD
 
-#### Video Games
+#### Natural Language Processing
 - TBD
 - TBD
 - TBD
