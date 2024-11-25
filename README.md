@@ -7,7 +7,7 @@ A collection of data science projects for fun and self-learning.
 - TBD
 - TBD
 
-#### Artificial Intelligence
+#### Machine Learning
 - TBD
 - TBD
 - TBD
